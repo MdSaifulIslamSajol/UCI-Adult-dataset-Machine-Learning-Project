@@ -1,2 +1,2 @@
 # UCI-Adult-dataset-Machine-Learning-Project
-EXST 7142 Course Project 1
+Louisiana State University EXST 7142 Course Project 1
